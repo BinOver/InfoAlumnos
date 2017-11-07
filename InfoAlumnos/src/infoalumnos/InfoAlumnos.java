@@ -1,9 +1,7 @@
 
 package infoalumnos;
 
-
 public class InfoAlumnos {
-	
 	
     public static void main(String[] args) {
         

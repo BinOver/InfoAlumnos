@@ -1,7 +1,6 @@
 
 package infoalumnos;
 
-
 public class Alumnos {
 	
 	public static int hombres=0;
